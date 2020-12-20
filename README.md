@@ -2,8 +2,8 @@
 
 ## Database
 The analysis is based on a dataset with almost 113.937 loans, with 81 features each. The dataset consists of a big number of attributes that can determine loans’ deals and its relationship with borrowers’ APR, such as borrower's Prosper rating, loan terms, loan original amount, borrower's monthly income, borrower's employment status, debt to income ratio, current loan status, etc.
-  - [Dataset can be found here:](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1608459230129000&usg=AOvVaw0bZ0zkXjGKNiemURQMBD7d) 
-  - [Features dictionary can be found here:](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0)
+  - [Dataset can be found here](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1608459230129000&usg=AOvVaw0bZ0zkXjGKNiemURQMBD7d) 
+  - [Features dictionary can be found here](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0)
 
 ## Key Insights for Presentation
 To enhance the key findings, I decided to consider only the features that could affect the most the borrower APR variable in the Presentation being those Loan Original Amount and Prosper Rating. 
