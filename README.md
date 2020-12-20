@@ -2,8 +2,8 @@
 
 ## Database
 The analysis is based on a dataset with almost 113.937 loans, with 81 features each. The dataset consists of a big number of attributes that can determine loans’ deals and its relationship with borrowers’ APR, such as borrower's Prosper rating, loan terms, loan original amount, borrower's monthly income, borrower's employment status, debt to income ratio, current loan status, etc.
-  - Dataset can be found here. 
-  - Features dictionary can be found here.
+  - [Dataset can be found here:](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1608459230129000&usg=AOvVaw0bZ0zkXjGKNiemURQMBD7d) 
+  - [Features dictionary can be found here:](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0)
 
 ## Key Insights for Presentation
 To enhance the key findings, I decided to consider only the features that could affect the most the borrower APR variable in the Presentation being those Loan Original Amount and Prosper Rating. 
@@ -24,3 +24,16 @@ Further, I plot a graphic to better visualize an analysis of how borrower’s AP
   - There is a positive relationship between loan amount and loan term
   - Employed and full-time workers borrowers seem to receive more loans
   - On better Prosper ratings, the loan amount on all three terms increases, the size of the increase / loan amplitude between terms also becomes larger.
+  
+  ## Feedback:
+  I got some feedback from my co-worker that is as a Data Analyst like me to check if she understood my main points on this presentation. I also leverage on past projects in the internet in order to help me to decide what I shoul include in the slide deck presentation, then, I decided to include just the variables that impact the most the Borrower's APR and the variables that had a surprinsing outcome in their relationshop with Loan Amount or Borrower's APR.
+  
+  ## List of Resources:
+  https://www.quora.com/How-do-I-create-a-hyperlink-in-the-README-file-in-my-GitHub-account-which-would-redirect-to-a-new-page-containing-the-project-explanation
+  Github website
+  https://matplotlib.org/api/_as_gen/matplotlib.pyplot.hist.html
+  https://medium.com/python-pandemonium/data-visualization-in-python-histogram-in-matplotlib-dce38f49f89c
+  https://www.listendata.com/2019/07/how-to-filter-pandas-dataframe.html
+  Udacity's mentor help
+  Udacity's chat room
+  
